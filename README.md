@@ -2,7 +2,7 @@
 https://caitkidd.github.io/Weather-Dashboard/
 
 
-![myimg](https://user-images.githubusercontent.com/88734760/139790093-87bbe0b0-9011-4e29-967a-f212479b70bd.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
+![myimg](https://user-images.githubusercontent.com/88734760/139790093-87bbe0b0-9011-4e29-967a-f212479b70bd.png)
 
 ## User Story
 AS A traveler
