@@ -1,6 +1,10 @@
 # Weather-Dashboard
 https://caitkidd.github.io/Weather-Dashboard/
 
+
+![weather dash photo](https://user-images.githubusercontent.com/88734760/139790093-87bbe0b0-9011-4e29-967a-f212479b70bd.png)
+
+
 ## User Story
 AS A traveler
 I WANT to see the weather outlook for multiple cities
