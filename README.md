@@ -1,17 +1,13 @@
 # Weather-Dashboard
 
-## Live URL
-https://caitkidd.github.io/Weather-Dashboard/
-
-
 ![myimg](https://user-images.githubusercontent.com/88734760/139790093-87bbe0b0-9011-4e29-967a-f212479b70bd.png)
 
-### User Story
+## User Story
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
-#### Acceptance Criteria
+### Acceptance Criteria
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -25,3 +21,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
+#### Live URL
+https://caitkidd.github.io/Weather-Dashboard/
